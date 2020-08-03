@@ -8,7 +8,7 @@ We devised dual item representations consisting of two vectors, where N-rep indi
 
 This our official implementation for the paper:
 
-Xiaoyu Du, Xiang Wang, Xiangnan He, Zechao Li, Jinhui Tang, and Tat-Seng Chua, **How to Learn Item Representation for Cold-Start Multimedia Recommendation?**, in Proceedings of MM'20.
+> Xiaoyu Du, Xiang Wang, Xiangnan He, Zechao Li, Jinhui Tang, and Tat-Seng Chua, **How to Learn Item Representation for Cold-Start Multimedia Recommendation?**, in Proceedings of MM'20.
 
 If you use the codes, please cite our paper. Thanks!
 
