@@ -18,7 +18,7 @@ class MTPR(Model):
         self.logging = logging
 
         p1_weight = np.random.randn(self.ds.usz, self.ds.dim) * 0.01
-        q_weight = np.random.randn(self.ds.usz, self.ds.dim) * 0.01
+        q_weight = np.random.randn(self.ds.isz, self.ds.dim) * 0.01
         self.logging.info('p/q weights are randomly initialized ')
 
         # uncomment to load the pretrained bpr parameters
