@@ -27,7 +27,9 @@ python main.python
 ```
 
 # Dataset
-We provide the dataset "amazon" in `amazon/men.npy`.
+The three datasets can be found here, <https://drive.google.com/file/d/1iKm2gHLuQ9X89l1Efq8Y9iJyRiV48sMu/view?usp=drive_link>
+
+In this repository, we provide the dataset "amazon" in `amazon/men.npy`.
 
 ```
 >>> import numpy as np
